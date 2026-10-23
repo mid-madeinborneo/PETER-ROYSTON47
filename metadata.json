@@ -1,0 +1,6 @@
+{
+  "name": "Sarawak Pua Kumbu NFT Marketplace & Collection",
+  "description": "Heritage blockchain marketplace for 50 unique Sarawak Pua Kumbu NFT digital collectibles with 20 mixed symbol background layers, smart contract P2P trading, rarity spreadsheet, and full OpenSea metadata export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
